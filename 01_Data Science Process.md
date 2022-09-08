@@ -1,10 +1,6 @@
 
 # The Data Science Process
 
-![](https://miro.medium.com/max/1400/0*5j1SYsfzlt_u2DcN)
-
-Photo by  [Lukas Blazek](https://unsplash.com/@goumbik?utm_source=medium&utm_medium=referral)  on  [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
-
 Data Science is a buzzword that’s been sizzling in the tech industry over the last few years. What happens in a data science project? Is it just that a problem statement is given and a model is applied to data to get the desired solution? Well, that's  _partially right_.  
 So to make these concepts clear, let's go through the process of what happens right after a problem statement is set in a data science project.
 
